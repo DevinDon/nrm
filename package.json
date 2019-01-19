@@ -1,0 +1,36 @@
+{
+  "name": "@devindon/nrm",
+  "version": "0.0.0",
+  "description": "TypeScript Porject Template.",
+  "main": "dist/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "build": "tsc",
+    "run": "node dist",
+    "start": "ts-node src",
+    "test": "ts-node test",
+    "init": "git remote remove origin && npm init"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Devin Don <DevinDon@Foxmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "commander": "^2.19.0",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DevinDon/nrm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DevinDon/nrm/issues"
+  },
+  "homepage": "https://github.com/DevinDon/nrm#readme"
+}
