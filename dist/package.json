@@ -1,0 +1,24 @@
+{
+  "name": "@devindon/nrm",
+  "version": "0.0.0",
+  "description": "NPM register manager.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DevinDon/nrm.git"
+  },
+  "keywords": [
+    "npm",
+    "register",
+    "manager"
+  ],
+  "author": "Devin Don <DevinDon@Foxmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevinDon/nrm/issues"
+  },
+  "homepage": "https://github.com/DevinDon/nrm#readme",
+  "dependencies": {
+    "commander": "^2.19.0"
+  },
+}
