@@ -1,8 +1,11 @@
 {
   "name": "@devindon/nrm",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "description": "NPM register manager.",
   "main": "index.js",
+  "bin": {
+    "nrm": "index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/DevinDon/nrm.git"
