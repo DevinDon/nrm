@@ -1,6 +1,6 @@
 {
   "name": "@devindon/nrm",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "NPM register manager.",
   "main": "index.js",
   "repository": {
@@ -20,5 +20,5 @@
   "homepage": "https://github.com/DevinDon/nrm#readme",
   "dependencies": {
     "commander": "^2.19.0"
-  },
+  }
 }

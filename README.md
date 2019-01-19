@@ -1,3 +1,3 @@
-# TS Template
+# NPM Registry Manager
 
-TypeScript Template Porject.
+see [README](https://github.com/DevinDon/nrm/blob/master/dist/README.md)
