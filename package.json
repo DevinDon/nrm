@@ -20,7 +20,7 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "commander": "^2.19.0"
+    "commander": "^2.20.3"
   },
   "devDependencies": {
     "@types/node": "^10.12.18",
